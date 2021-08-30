@@ -1,0 +1,11 @@
+#seta_scroll{
+    position: fixed;
+    top:0;
+}
+#seta_scroll{
+    color: #ff5600;
+}
+
+#seta_scroll:hover {
+    color: #ff9f00
+}

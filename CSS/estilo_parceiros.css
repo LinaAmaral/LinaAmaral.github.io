@@ -1,0 +1,16 @@
+.img_parceiros{
+    border-radius: 100%;
+    align-items: center;
+    box-shadow: 2px 5px 16px 0px #ff5600;
+
+  }
+p{
+  font-size: 125%;
+}
+
+
+@media (max-width: 767px) {
+  .img_parceiros{
+    display: none;
+  }
+}

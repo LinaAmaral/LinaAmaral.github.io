@@ -1,0 +1,35 @@
+.caixa_img_revendedora {
+    width: 15vw;
+    border: solid;
+}
+.revendedoras_img {
+    width: 100%;
+}
+
+.valido {
+    background-color: lightgreen;
+}
+
+.invalido {
+    background-color: lightcoral;
+}
+
+p{
+    text-transform: uppercase;
+    color: #ffff;
+}
+
+aside{
+    background-color: #ffff;
+}
+.depoimentos{
+    background-color: #ff7900;
+}
+@media (max-width: 767px) {
+    aside, .depoimentos {
+      display: none;
+    }
+}
+#titulo{
+    color: #ff7900;
+}

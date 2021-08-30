@@ -1,0 +1,14 @@
+.card {
+    text-align: justify;
+    box-shadow: 2px 5px 16px 0px #d9dace;
+  }
+.col{
+  padding: 1%;
+}
+h3{
+  color: #ff5600;
+}
+.card:hover{
+  box-shadow: 2px 5px 16px 0px #ff9f00;
+}
+
